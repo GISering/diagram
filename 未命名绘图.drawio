@@ -1,137 +1,273 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T03:17:53.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UOyJ-2wcjv_0y5G-jqY6" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:13:24.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BOoAO_DY7PyWeBewj0rg" version="20.5.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="936" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1440" dy="1878" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-55" value="耕地地块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="350" width="520" height="50" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-168" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27" y="-72" width="882" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="180" y="414" width="520" height="66" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707.94" y="169" width="190" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="250" height="110" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-112" target="mO7HR5LilEdB7sUg-t3T-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-59" value="土类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="270" y="450" width="70" height="22" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="37.94" y="169" width="630" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-60" value="亚类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="70" height="22" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-55" value="耕地地块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=none;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.81" y="409" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-61" value="土属" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="70" height="22" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.81" y="459" width="520" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-62" value="容重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="560" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.81" y="535" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-63" value="土层厚度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="275.5" y="560" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-59" value="土类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219.81" y="495" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-64" value="耕层厚度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="560" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-60" value="亚类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309.81" y="495" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="240" width="520" height="96" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-61" value="土属" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399.81" y="495" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-70" value="种植类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="300" width="210" height="28" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-62" value="容重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147.31" y="605" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-71" value="轮作品种" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="155" height="28" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-63" value="土层厚度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225.31" y="605" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-72" value="稻+N" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="587.5" y="270" width="100" height="60" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-64" value="耕层厚度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302.31" y="605" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-73" value="果树" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="270" width="50" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=none;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.81" y="299" width="520" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-74" value="稻麦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="266.25" y="270" width="60" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-70" value="种植类型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147.31" y="359" width="210" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-75" value="蔬菜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="270" width="60" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-71" value="轮作品种" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369.81" y="359" width="155" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-76" value="油菜花" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="418.75" y="270" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-72" value="稻+N" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="537.3100000000001" y="329" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-77" value="红花草" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="503.75" y="270" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-73" value="果树" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147.31" y="329" width="50" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="180" y="40" width="520" height="90" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-74" value="稻麦" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="216.06" y="329" width="60" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-79" value="高标准农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="185" y="80" width="110" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-75" value="蔬菜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="297.31" y="329" width="60" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-80" value="永久基本农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="308" y="80" width="112.5" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-76" value="油菜花" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="368.56" y="329" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-81" value="粮食生产功能区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="433" y="80" width="140" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-77" value="红花草" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453.56" y="329" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-82" value="土壤类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="414" width="60" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="129.81" y="189" width="520" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-84" value="酸碱度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="197.5" y="526" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-79" value="高标准农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="134.81" y="229" width="110" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-85" value="有机质" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="275.5" y="526" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-80" value="永久基本农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="257.81" y="229" width="112.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-86" value="水溶性盐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="526" width="70" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-81" value="粮食生产功能区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="382.81" y="229" width="140" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-87" value="土种" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="540" y="450" width="70" height="22" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-82" value="土壤类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359.81" y="459" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-88" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;土壤理化性质&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="490" width="100" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-84" value="酸碱度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147.31" y="571" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-89" value="&lt;span style=&quot;&quot;&gt;土壤理化性质&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="493" width="100" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-85" value="有机质" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225.31" y="571" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="490" width="250" height="110" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-86" value="水溶性盐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="302.31" y="571" width="70" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-91" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;土壤养分指标&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="100" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-87" value="土种" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="489.81" y="495" width="70" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-92" value="&lt;div data-lake_diagram_content_editor_data=&quot;true&quot;&gt;有效磷/铜/硼/钼/锰/铁/锌/硅/硫&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="526" width="225" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-88" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;土壤理化性质&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210.31" y="535" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-93" value="全氮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="461.25" y="560" width="65" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-89" value="&lt;span style=&quot;&quot;&gt;土壤理化性质&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479.81" y="538" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-94" value="速效钾" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="538.75" y="560" width="65" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399.81" y="535" width="250" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-95" value="缓效钾" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="618.75" y="560" width="65" height="23" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-91" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;土壤养分指标&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479.81" y="535" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-97" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;种植属性&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="240" width="70" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-92" value="&lt;div data-lake_diagram_content_editor_data=&quot;true&quot;&gt;有效磷/铜/硼/钼/锰/铁/锌/硅/硫&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="409.81" y="571" width="225" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-102" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;政策属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="40" width="70" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-93" value="全氮" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411.06" y="605" width="65" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="520" height="90" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-94" value="速效钾" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="488.56" y="605" width="65" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-104" value="高标准农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="193.75" y="170" width="180" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-95" value="缓效钾" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="568.5600000000001" y="605" width="65" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-105" value="永久基本农田" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="391.25" y="170" width="140" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-97" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;种植属性&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.31" y="299" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-106" value="粮食生产功能区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="543.75" y="170" width="140" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-102" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;政策属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354.81" y="189" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-107" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;自然属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="140" width="70" height="30" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="49.81" y="189" width="66.25" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="mO7HR5LilEdB7sUg-t3T-108" value="轮作休耕" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="585" y="80" width="110" height="36" as="geometry" />
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-104" value="气象" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="57.94" y="229" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-107" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;自然属性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;horizontal=1;rotation=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47.94" y="198" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-108" value="轮作休耕" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="534.8100000000001" y="229" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-109" value="水质" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="57.94" y="379" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-110" value="土壤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="57.94" y="552.5" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-113" target="mO7HR5LilEdB7sUg-t3T-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-113" value="现有耕地数据收集" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;fontStyle=1;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="719" y="579" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-114" target="mO7HR5LilEdB7sUg-t3T-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-114" value="耕地数据模型化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;fontStyle=1;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717.94" y="399" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717.94" y="182" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-116" value="数据定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="727.94" y="222" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-117" value="数据字典" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="807.94" y="222" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-118" value="数据规则" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="727.94" y="267" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-119" value="数据血缘" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="807.94" y="267" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-120" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;元数据治理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="767.94" y="185" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-126" target="mO7HR5LilEdB7sUg-t3T-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-126" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="-50" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-132" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;数据产出&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="91" y="-50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-133" target="mO7HR5LilEdB7sUg-t3T-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-133" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240.68" y="-50" width="229.38" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-134" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;数据整合与数据服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285.87" y="-47" width="144.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-135" target="mO7HR5LilEdB7sUg-t3T-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-135" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="516.62" y="-50" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-136" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;数据搜索&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="531.62" y="-40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fad9d5;strokeColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="699" y="-50" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-138" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;数据消费&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="729" y="-40" width="144.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-141" value="调查数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="46.94" y="-2" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-143" value="下发数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144.12" y="-2" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-144" value="项目数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="46.94" y="28" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-145" value="其它数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144.12" y="28" width="60" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-147" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430.25" y="-17" width="25.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-154" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273.62" y="43.5" as="sourcePoint" />
+            <mxPoint x="382.87" y="43.629999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-155" value="数据规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#D7E8D3;labelBorderColor=none;" vertex="1" connectable="0" parent="mO7HR5LilEdB7sUg-t3T-154">
+          <mxGeometry x="-0.4185" y="-1" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1" source="mO7HR5LilEdB7sUg-t3T-156" target="mO7HR5LilEdB7sUg-t3T-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-156" value="数据整合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385.12" y="-17" width="25.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-158" value="数据地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="526.62" y="8.25" width="90" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-159" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;labelBorderColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272.87" y="1.5699999999999932" as="sourcePoint" />
+            <mxPoint x="382.87" y="1.5699999999999932" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-160" value="数据定义" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;labelBackgroundColor=#d7e8d3;labelBorderColor=none;" vertex="1" connectable="0" parent="mO7HR5LilEdB7sUg-t3T-159">
+          <mxGeometry x="0.2553" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-161" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fad9d5;strokeColor=#ae4132;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="719" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-162" value="评价分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fad9d5;strokeColor=#ae4132;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="809" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-163" value="决策分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fad9d5;strokeColor=#ae4132;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="719" y="-9" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mO7HR5LilEdB7sUg-t3T-165" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;labelBorderColor=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503" y="167" as="sourcePoint" />
+            <mxPoint x="503" y="107" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
