@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:18:41.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="WyKViNtPQLk50_y9qbUl" version="22.1.5" type="github" pages="2">
+  <diagram name="第 1 页" id="zE5t6aD2_p2wQIvtdHmX">
+    <mxGraphModel dx="942" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cCWL97s1AogKki4cQy96" name="第 2 页">
+    <mxGraphModel dx="942" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_eSVEkaFVR-OZYeYVJ--3" target="v_eSVEkaFVR-OZYeYVJ--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_eSVEkaFVR-OZYeYVJ--3" target="v_eSVEkaFVR-OZYeYVJ--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--3" value="臻善数据中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="430" width="218.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_eSVEkaFVR-OZYeYVJ--5" target="v_eSVEkaFVR-OZYeYVJ--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--5" value="AgriData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230.5" y="260" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--6" value="GIS 服务门户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v_eSVEkaFVR-OZYeYVJ--8" target="v_eSVEkaFVR-OZYeYVJ--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v_eSVEkaFVR-OZYeYVJ--8" value="空间分析引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="345" width="101.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
