@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T06:35:37.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="RjoBZ3p0XlD066piG95q" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:02:52.148Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Sw5m8tbbVE0bRyL_uuew" version="24.7.1" type="github">
   <diagram name="第 1 页" id="RDpvD_mBrIa01KDGyiUF">
-    <mxGraphModel dx="1975" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="g1VSG913GMHRazNxdz0j-66" value="输配电设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="589" y="471" width="84" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="g1VSG913GMHRazNxdz0j-67" value="科技设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g1VSG913GMHRazNxdz0j-67" value="xx设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="589" y="511" width="84" height="23" as="geometry" />
         </mxCell>
         <mxCell id="g1VSG913GMHRazNxdz0j-68" value="管护记录查询" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
