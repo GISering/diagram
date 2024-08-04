@@ -212,7 +212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mc1IRwViXB6cocxhh7ov" name="第 2 页">
-    <mxGraphModel dx="1207" dy="1948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="2115" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,16 +314,13 @@
           <mxGeometry x="156" y="68.75" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zyd6SrHc1U9wLB_84_dU-58" value="农田项目信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="156" y="111.25" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-59" value="农田投产信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="556" y="111.25" width="90" height="30" as="geometry" />
+          <mxGeometry x="287" y="115" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zyd6SrHc1U9wLB_84_dU-60" value="农情监测信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="292.63" y="111.25" width="90" height="30" as="geometry" />
+          <mxGeometry x="423.63" y="115" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zyd6SrHc1U9wLB_84_dU-61" value="农田管护信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="425" y="111.25" width="90" height="30" as="geometry" />
+          <mxGeometry x="556" y="115" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zyd6SrHc1U9wLB_84_dU-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="51" y="-20" width="685" height="50" as="geometry" />
@@ -414,35 +411,38 @@
         <mxCell id="zyd6SrHc1U9wLB_84_dU-96" value="农田管护任务下发和管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="270" width="197.12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-97" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-97" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-100" value="现有成果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="555" width="110" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-100" value="现有成果" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="959" y="558" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-102" value="基本完成开发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1002.5" y="721" width="127.5" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-102" value="基本完成开发" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="964" y="724" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-105" value="核心业务功能，正在设计开发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="941.25" y="170" width="250" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-105" value="核心业务功能，正在设计开发" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="959" y="170" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-106" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-106" value="无人机正射影像拼接" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="407" y="370" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-107" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-107" value="农田设施智能化识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="407" y="430" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-108" value="模型分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-108" value="作物长势分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="430" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-110" value="需补充具体内容。方案里写的有些抽象，可以作为招标文件内容，投标文件可以写几个具体分析能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="980" y="392" width="187.5" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-110" value="以目前可用算法集成为方向" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="959" y="395" width="235" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-112" value="数据库能力，不用开发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1002.5" y="865" width="187.5" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-112" value="数据库能力，不用开发" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="971" y="865.5" width="187.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zyd6SrHc1U9wLB_84_dU-114" value="采购集成的硬件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="981" width="187.5" height="30" as="geometry" />
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-114" value="采购集成的硬件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="971" y="981" width="187.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zyd6SrHc1U9wLB_84_dU-115" value="农田基本信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="156" y="115" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
