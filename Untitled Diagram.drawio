@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2022-08-09T09:24:34.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1HdJsj6h_JLHGMbvKC8c" version="20.2.0" type="github">
+  <diagram id="uXDhAiV_01r2xwQewa21" name="宅基地变化检测流程图">
+    <mxGraphModel dx="691" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="90" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-27">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-29" value="应用系统阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-27">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="300" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-34">
+          <mxGeometry y="30" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-36" value="应用系统阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-34">
+          <mxGeometry width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuWp3kBIm7icQoAQz1tT-2" target="HuWp3kBIm7icQoAQz1tT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-2" value="数据准备（地图数据 / 表格数据）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuWp3kBIm7icQoAQz1tT-3" target="HuWp3kBIm7icQoAQz1tT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-3" value="自动识别" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuWp3kBIm7icQoAQz1tT-5" target="HuWp3kBIm7icQoAQz1tT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-5" value="图斑总览（要处理的问题）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuWp3kBIm7icQoAQz1tT-7" target="HuWp3kBIm7icQoAQz1tT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-7" value="图斑分配（任务分配-手机端）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuWp3kBIm7icQoAQz1tT-9" target="HuWp3kBIm7icQoAQz1tT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-9" value="数据回传（展示统计）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-11" value="回传任务总览（可视化）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-13" value="人工准备/上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-14" value="系统自动识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-15" value="扩建图斑数量&lt;br&gt;拆除图斑数量&lt;br&gt;相应地理坐标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-16" value="任务派发/导航" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-17" value="拍照回传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-18" value="任务统计 / 部署" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="90" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-22">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-21" value="数据准备阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-22">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="90" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-23">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-25" value="算法使用调用阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-23">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="300" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-30">
+          <mxGeometry y="30" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="HuWp3kBIm7icQoAQz1tT-32" value="移动APP阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="HuWp3kBIm7icQoAQz1tT-30">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
