@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="3">
   <diagram name="第 1 页" id="RDpvD_mBrIa01KDGyiUF">
     <mxGraphModel dx="2074" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,6 +443,218 @@
         </mxCell>
         <mxCell id="zyd6SrHc1U9wLB_84_dU-115" value="农田基本信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="156" y="115" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WP2vg9hZySeNwrVjkArb" name="第 3 页">
+    <mxGraphModel dx="2074" dy="2373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h_9t4tXM4heeNGovgDRm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="90" width="580" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="500" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="970" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-7" value="基础设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="985" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-8" value="计算资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="166" y="980" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-9" value="存储资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="296" y="980" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-10" value="网络资源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="426" y="980" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-11" value="安全管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="556" y="980" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="730" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-14" value="数据存储" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="740.5" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-15" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="155" y="740.5" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="620" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-17" value="数据中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#fad7ac;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="631" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="363" width="580" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-20" value="数据分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="383" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-21" value="农田工程设施监测" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="421" y="105" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-22" value="农田地块监测" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="105" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-23" value="数据应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114.25" y="160" width="31.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-24" value="下发周期性调查任务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="260" width="473.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="-30" width="580" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-27" value="数据展示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-22.5" width="31.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-28" value="智慧耕地一张图" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="156" y="-11.25" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-29" value="农田项目信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="287" y="35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-30" value="农情监测信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="423.63" y="35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-31" value="设备状态信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="556" y="35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="-100" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-33" value="主管农业领导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="-90" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-34" value="农田管理部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="-90" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-35" value="地方农田维护人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="-90" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-38" value="数据治理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="515" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-39" value="数据备份" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="740.5" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-40" value="数据恢复" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="155.5" y="787" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-41" value="数据加密" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="787" width="248" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="847" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-44" value="硬件设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fillColor=#bac8d3;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="857.5" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-45" value="数据采集车" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="858" width="246.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-46" value="巡田机器人" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="164" y="904.5" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-47" value="无人机（场）" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="310" y="904.5" width="101.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-48" value="标准化数据方舱" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="860.5" width="220" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-50" value="多源数据集成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="170.37" y="631" width="219.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-51" value="数据资源目录编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170.37" y="680" width="219.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-52" value="数据图层样式配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="416.62" y="680" width="219.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-53" value="数据图层服务发布" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="416.62" y="631" width="219.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-54" value="数据资产管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="156" y="524" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-55" value="数据标准管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="524" width="153.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-56" value="数据模型管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="524" width="153.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-57" value="数据标签管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="156" y="570" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-58" value="数据检索" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="570" width="153.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-59" value="数据服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="570" width="153.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-60" value="农田管护任务下发和管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="270" width="197.12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-61" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="383" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-64" value="无人机正射影像拼接" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="407" y="383" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-65" value="农田设施智能化识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="407" y="443" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-66" value="作物长势分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="443" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-69" value="农田基本信息" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="156" y="35" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-70" value="灌溉能力" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-71" value="排水能力" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-72" value="宜机化" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-73" value="道路通达度" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-74" value="种植类型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-75" value="田块平整度" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-76" value="完工时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="421.38" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-77" value="使用状态" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="546" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-78" value="运行状态" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="421.38" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-79" value="管护实施主体" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="421" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-81" value="工程参数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="545" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-82" value="工程类别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="546" y="140" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h_9t4tXM4heeNGovgDRm-83" value="下发问题调查任务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="166.5" y="300" width="473.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
