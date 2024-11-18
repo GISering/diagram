@@ -507,7 +507,7 @@
           <mxGeometry x="114.25" y="160" width="31.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-24" value="下发周期性调查任务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="166.5" y="260" width="473.5" height="30" as="geometry" />
+          <mxGeometry x="166.5" y="260" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="105" y="-30" width="580" height="110" as="geometry" />
@@ -530,7 +530,7 @@
         <mxCell id="h_9t4tXM4heeNGovgDRm-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="103.5" y="-100" width="580" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h_9t4tXM4heeNGovgDRm-33" value="主管农业领导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="h_9t4tXM4heeNGovgDRm-33" value="农业主管领导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="-90" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-34" value="农田管理部门" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontStyle=1;fontSize=14;" vertex="1" parent="1">
@@ -599,9 +599,6 @@
         <mxCell id="h_9t4tXM4heeNGovgDRm-59" value="数据服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="500" y="570" width="153.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_9t4tXM4heeNGovgDRm-60" value="农田管护任务下发和管理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="270" width="197.12" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-61" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="383" width="200" height="30" as="geometry" />
         </mxCell>
@@ -636,7 +633,7 @@
           <mxGeometry x="291.5" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-76" value="完工时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="421.38" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="546" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-77" value="使用状态" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="546" y="180" width="100" height="30" as="geometry" />
@@ -648,13 +645,13 @@
           <mxGeometry x="421" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-81" value="工程参数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="545" y="220" width="100" height="30" as="geometry" />
+          <mxGeometry x="421.38" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-82" value="工程类别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="546" y="140" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h_9t4tXM4heeNGovgDRm-83" value="下发问题调查任务" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="166.5" y="300" width="473.5" height="30" as="geometry" />
+          <mxGeometry x="166.5" y="300" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
