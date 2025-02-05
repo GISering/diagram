@@ -3022,7 +3022,7 @@
           <mxGeometry x="88.22" y="874" width="144.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1LiepPax4jdILQCPxB1-2" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=developer_portal;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=27;" vertex="1" parent="1">
-          <mxGeometry x="87" y="879.75" width="54.72" height="48.5" as="geometry">
+          <mxGeometry x="87.36" y="879.75" width="54.72" height="48.5" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -3198,7 +3198,7 @@
           <mxGeometry x="383.2" y="404.19" width="71.98" height="67.19" as="geometry" />
         </mxCell>
         <mxCell id="WZ_r5PB4pSrDKJU6Cjdv-1" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=1;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;spacing=-2;" vertex="1" parent="1">
-          <mxGeometry x="85.09" y="798" width="54.63" height="49" as="geometry" />
+          <mxGeometry x="87.405" y="798" width="54.63" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WZ_r5PB4pSrDKJU6Cjdv-2" value="&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 16px;&quot;&gt;消息队列&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;下发任务指令&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;同步任务状态&lt;/font&gt;&lt;/div&gt;" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=-4;fontSize=18;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_data_catalog;spacing=-7;" vertex="1" parent="1">
           <mxGeometry x="293.2" y="570" width="81.78" height="74" as="geometry" />
