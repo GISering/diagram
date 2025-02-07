@@ -3166,7 +3166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RyRSF6ppQoFRH36cysc0-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
-          <mxGeometry x="406.99" y="386.38" width="46" height="30" as="geometry" />
+          <mxGeometry x="415" y="391" width="46" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
