@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11" pages="13">
   <diagram id="VRPIO4waSqi9Wb5bPzT3" name="草稿">
     <mxGraphModel dx="1931" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2928,23 +2928,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dQH3fUStYUr9S96h2Akl" name="数据方舱">
-    <mxGraphModel dx="1121" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tt8-CWSYgC9kaelEtOTS-2" value="供巡查人员现场随时发起巡检任务，拍摄指定位置照片获取指定区域影像" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;dashed=1;arcSize=2;verticalAlign=bottom;spacing=11;" parent="1" vertex="1">
-          <mxGeometry x="532.47" y="614" width="225" height="379" as="geometry" />
-        </mxCell>
-        <mxCell id="Tt8-CWSYgC9kaelEtOTS-1" value="支撑无人机定期执行预设固定航线任务，将图片结果拼接成影像成果 ，&lt;div&gt;通过 Agent 服务同步至云平台，方便进一步查看使用。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;dashed=1;arcSize=2;verticalAlign=bottom;spacing=11;" parent="1" vertex="1">
-          <mxGeometry x="138" y="604" width="410" height="389" as="geometry" />
-        </mxCell>
         <mxCell id="d-8-4qawab2yqqc3d7XM-33" value="移动机场" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F8CECC;arcSize=2;spacingTop=6;verticalAlign=top;align=left;spacingLeft=6;fontColor=#4D4D4D;fontSize=15;fontStyle=1;spacingBottom=8;" parent="1" vertex="1">
           <mxGeometry x="548" y="613" width="180" height="321" as="geometry" />
         </mxCell>
         <mxCell id="QXHady3pHRu0wTIz-qH--1" value="固定机场 1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D5E8D4;arcSize=2;spacingTop=6;verticalAlign=top;align=left;spacingLeft=6;fontColor=#4D4D4D;fontSize=15;fontStyle=1;spacingBottom=8;" parent="1" vertex="1">
           <mxGeometry x="148" y="613" width="180" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#5184F3;" edge="1" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="_1LiepPax4jdILQCPxB1-8">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#5184F3;" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="_1LiepPax4jdILQCPxB1-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="434" y="593" />
@@ -2952,7 +2946,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#5184F3;" edge="1" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="d-8-4qawab2yqqc3d7XM-43">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#5184F3;" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="d-8-4qawab2yqqc3d7XM-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="434" y="593" />
@@ -2961,7 +2955,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6666FF;fillColor=#FFFFFF;dashed=1;arcSize=2;verticalAlign=bottom;spacing=11;" vertex="1" parent="1">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6666FF;fillColor=#FFFFFF;dashed=1;arcSize=2;verticalAlign=bottom;spacing=11;" parent="1" vertex="1">
           <mxGeometry x="224.76999999999998" y="442.5" width="418.22" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WZ_r5PB4pSrDKJU6Cjdv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillColor=default;shadow=0;" parent="1" vertex="1">
@@ -3074,12 +3068,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-1" value="下发任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WZ_r5PB4pSrDKJU6Cjdv-16">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-1" value="下发任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="WZ_r5PB4pSrDKJU6Cjdv-16" vertex="1" connectable="0">
           <mxGeometry x="0.1703" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-3" value="同步状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WZ_r5PB4pSrDKJU6Cjdv-16">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-3" value="同步状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="WZ_r5PB4pSrDKJU6Cjdv-16" vertex="1" connectable="0">
           <mxGeometry x="0.3318" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3106,7 +3100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-2" value="同步数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="WZ_r5PB4pSrDKJU6Cjdv-20">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-2" value="同步数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="WZ_r5PB4pSrDKJU6Cjdv-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2856" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3162,11 +3156,17 @@
         <mxCell id="WZ_r5PB4pSrDKJU6Cjdv-5" value="" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;align=left;spacingTop=1;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=container_engine;spacing=-2;" parent="1" vertex="1">
           <mxGeometry x="563.0899999999999" y="677" width="54.63" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#5184F3;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="d-8-4qawab2yqqc3d7XM-12">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#5184F3;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="RyRSF6ppQoFRH36cysc0-4" target="d-8-4qawab2yqqc3d7XM-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyRSF6ppQoFRH36cysc0-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" vertex="1" parent="1">
+        <mxCell id="RyRSF6ppQoFRH36cysc0-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" parent="1" vertex="1">
           <mxGeometry x="415" y="391" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WwuhDFYipEu0gg8YuOvP-1" value="支撑无人机定期执行预设固定航线任务，将图片结果拼接成影像成果 ，&lt;div&gt;通过 Agent 服务同步至云平台，方便进一步查看使用。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="944" width="379" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WwuhDFYipEu0gg8YuOvP-2" value="供巡查人员现场随时发起巡检任务，拍摄指定位置照片获取指定区域影像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="944" width="182" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
