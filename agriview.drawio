@@ -2927,8 +2927,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="dQH3fUStYUr9S96h2Akl" name="数据方舱">
-    <mxGraphModel dx="2074" dy="1130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="dQH3fUStYUr9S96h2Akl" name="无人机数据方舱">
+    <mxGraphModel dx="2074" dy="1047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3162,16 +3162,16 @@
         <mxCell id="RyRSF6ppQoFRH36cysc0-20" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;" parent="1" vertex="1">
           <mxGeometry x="415" y="391" width="46" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WwuhDFYipEu0gg8YuOvP-1" value="支撑无人机定期执行预设固定航线任务，将图片结果拼接成影像成果 ，&lt;div&gt;通过 Agent 服务同步至云平台，方便进一步查看使用。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwuhDFYipEu0gg8YuOvP-1" value="支撑无人机定期执行预设固定航线任务，将图片结果拼接成影像成果 ，&lt;div&gt;通过 Agent 服务同步至云平台，方便进一步查看使用。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="147" y="944" width="379" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwuhDFYipEu0gg8YuOvP-2" value="供巡查人员现场随时发起巡检任务，拍摄指定位置照片获取指定区域影像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WwuhDFYipEu0gg8YuOvP-2" value="供巡查人员现场随时发起巡检任务，拍摄指定位置照片获取指定区域影像" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="548" y="944" width="182" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wwzMVYF3Dn_bCpskWA1P" name="第 14 页">
+  <diagram id="wwzMVYF3Dn_bCpskWA1P" name="云边端数据互通">
     <mxGraphModel dx="1728" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
