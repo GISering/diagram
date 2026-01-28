@@ -419,7 +419,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oNmVioJMySUTfee1g3iX" name="第 4 页">
-    <mxGraphModel dx="1018" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -577,6 +577,64 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" value="Kafka 增量定位数据" vertex="1">
+          <mxGeometry height="54" width="164" x="188" y="-81" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" value="业务系统" vertex="1">
+          <mxGeometry height="54" width="124" x="421" y="-133" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" value="GeoMesa for Kafka" vertex="1">
+          <mxGeometry height="54" width="162" x="402" y="-29" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" value="达梦业务库" vertex="1">
+          <mxGeometry height="54" width="140" x="630" y="-133" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" value="DMSA" vertex="1">
+          <mxGeometry height="54" width="171" x="614" y="-29" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-6" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="83LWxTInZzEYikUvZ_Df-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="377" y="-106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-7" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="83LWxTInZzEYikUvZ_Df-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="377" y="-2" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-8" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="83LWxTInZzEYikUvZ_Df-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-9" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="83LWxTInZzEYikUvZ_Df-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-10" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="83LWxTInZzEYikUvZ_Df-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-11" edge="1" parent="1" source="83LWxTInZzEYikUvZ_Df-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" target="83LWxTInZzEYikUvZ_Df-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="67" />
+              <mxPoint x="700" y="67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-12" connectable="0" parent="83LWxTInZzEYikUvZ_Df-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" value="增量数据也可以直接在 Iot 采集系统中直接写入 DMSA" vertex="1">
+          <mxGeometry relative="1" x="-0.2267" y="-1" as="geometry">
+            <mxPoint x="61" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="83LWxTInZzEYikUvZ_Df-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;" value="Iot 采集系统" vertex="1">
+          <mxGeometry height="60" width="120" x="38" y="-84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
